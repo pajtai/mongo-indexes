@@ -1,0 +1,23 @@
+{
+  "name": "mongo-indexes",
+  "version": "1.0.0",
+  "description": "playground for mongo indexes",
+  "main": "addDocs.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pajtai/mongo-indexes.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pajtai/mongo-indexes/issues"
+  },
+  "homepage": "https://github.com/pajtai/mongo-indexes#readme",
+  "dependencies": {
+    "mongodb": "^2.2.22"
+  }
+}
